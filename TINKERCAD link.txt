@@ -1,0 +1,7 @@
+Round Robin - https://www.tinkercad.com/things/85m4vWoeSW2-round-robin-scheduling-algorithm
+
+
+First In First Out - https://www.tinkercad.com/things/8Xyu48y2yNY-fifo-scheduling-algorithm
+
+
+Shortest Job First - https://www.tinkercad.com/things/1rDvVTsYput-sjf-scheduling-algorithm
